@@ -11,7 +11,7 @@ const Navbar = ({onAddCategory}) => {
             <a href="https://github.com/Paula2811" target="_blank">
                 <img src="/github.png" alt="git hub icono" height='38px'/>
             </a>
-            <a href="https://www.linkedin.com/in/paula-andrea-yunes-85773297/" target="_blank">
+            <a href="https://www.linkedin.com/in/paulayunes/" target="_blank">
                 <img src="/linkedin.png" alt="linkedin icono" height='38px' />
             </a>
         </div>
